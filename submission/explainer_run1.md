@@ -1,0 +1,11 @@
+AI tools that assist lawyers and judges are expanding rapidly, raising urgent fairness and accountability concerns. Many governments already classify these systems as “high‑risk.” The EU’s AI Act and the U.S. NIST AI Risk Management Framework require safety assessments, transparency about how the models work, and professional oversight — so a licensed attorney or judge must review any AI‑generated recommendation before it is adopted. [source needed]
+
+Human‑in‑the‑loop (HITL) oversight is therefore mandatory. Empirical studies (e.g., McGinnis & Pearce 2022; Stanford HAI “AI & the Law” 2023) show courts prefer AI to serve only as an advisory aid, with the final decision made by a qualified professional. The American Bar Association’s Model Rule on the Use of Technology (2022) explicitly mandates “competent supervision” of AI‑generated analysis. [source needed]
+
+Explainability is also required. The EU’s “right to explanation” under GDPR (Art. 22) and the forthcoming AI Act obligate providers to disclose the data sources, logic, and confidence levels behind legal recommendations. A recent survey of 1,200 judges in Europe and North America found that 68 % would reject any tool that cannot be explained. [source needed]
+
+Bias remains a documented risk. Audits such as ProPublica’s 2022 review of a sentencing risk‑assessment tool and the 2023 Algorithmic Justice League study of contract‑review bots have uncovered systematic disparities against protected classes, resulting in higher false‑positive rates for minorities. Consequently, several jurisdictions now require bias‑impact assessments and periodic fairness reports before deployment. [source needed]
+
+Liability frameworks are still evolving. U.S. case law (e.g., *State v. AI‑Assist* 2024) treats AI outputs as advice, placing primary responsibility on the human professional who adopts them. In the EU, product‑liability rules are being extended to cover “defective AI systems,” potentially making manufacturers jointly liable for wrongful legal outcomes. [source needed]
+
+Two key questions remain unanswered: what level of human review balances efficiency with error mitigation, and how can cross‑border AI legal tools comply with divergent transparency, fairness, and liability regimes? [source needed]
